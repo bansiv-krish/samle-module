@@ -21,5 +21,11 @@
   ],
   "support": {
     "email": "bansi.vithlani@krishtechnolabs.com,"
-  }
+  },
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bansiv-krish/samle-module"
+        }
+    ],
 }
