@@ -6,7 +6,6 @@
   },
   "type": "magento2-module",
   "version": "1.0.3",
-  "license": "proprietary",
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
@@ -21,11 +20,5 @@
   ],
   "support": {
     "email": "bansi.vithlani@krishtechnolabs.com"
-  },
-  "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/bansiv-krish/samle-module.git"
-        }
-    ]
+  }
 }
